@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 
 Output
+![website output](https://github.com/dinbandhu12/frontend-react/assets/74874773/ed9f8b17-7f66-4651-bd66-c4c6c9e8f74a)
