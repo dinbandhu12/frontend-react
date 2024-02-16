@@ -5,7 +5,7 @@ import { HiArrowLongRight } from "react-icons/hi2";
 
 const About = () => {
   return (
-    <div className=''>
+    <div id='about' className=''>
       <div className="container mx-auto grid grid-cols-2 pt-10 pb-10 ">
         {/* left section */}
         <div className='col-span-1 flex flex-col justify-center gap-2 items-start p-20'>

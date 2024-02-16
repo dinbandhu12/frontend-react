@@ -5,7 +5,7 @@ import Service03 from "../../assets/imgs/service_03.jpg";
 
 const Services = () => {
     return (
-    <div className="bg-secondary_one">
+    <div id="services" className="bg-secondary_one">
         <div className=" container mx-auto">
             <div className="mx-auto flex w-11/12 flex-row justify-between gap-2 pt-28 pb-28">
                 <div className="w-1/3">

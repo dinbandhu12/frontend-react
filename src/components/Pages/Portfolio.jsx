@@ -6,7 +6,7 @@ import Client04 from "../../assets/imgs/client_04.png";
 
 const Portfolio = () => {
     return (
-        <div className=" bg-secondary_one">
+        <div id="portfolio" className=" bg-secondary_one">
         <div className=" container mx-auto">
             <div className="mx-auto flex w-11/12 flex-row justify-between gap-2 mt-10 mb-20">
                 <div className="h-40 w-40">

@@ -4,7 +4,7 @@ import Background from '../../assets/imgs/bg_hero_img.jpg'
 
 const Home = () => {
   return (
-    <div className='relative h-screen overflow-hidden'>
+    <div id='#' className='relative h-screen overflow-hidden'>
 
       {/* background img */}
       <div className='absolute inset-0'>

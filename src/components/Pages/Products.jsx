@@ -10,7 +10,7 @@ const Products = () => {
     
     return (
         // <div className="">
-        <div className=" container mx-auto">
+        <div id="shop" className=" container mx-auto">
             <div className="pt-20 pb-20">
                 {/* heading */}
                 <div className="mx-auto flex justify-between w-11/12">

@@ -5,7 +5,7 @@ import Blog02 from "../../assets/imgs/blog_02.jpg";
 const Blog = () => {
     return (
         // <div className="">
-        <div id="6" className="container mx-auto pt-4 mb-20">
+        <div id="blog" className="container mx-auto pt-4 mb-20">
 
             {/* heading */}
             <div className="mx-auto flex justify-between w-11/12 mb-8">
